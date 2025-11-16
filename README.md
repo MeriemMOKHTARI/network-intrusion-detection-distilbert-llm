@@ -59,5 +59,5 @@ pip install -r scripts/requirements.txt
 Licence
 Ce projet utilise le dataset UNSW-NB15 libre de droits pour la recherche académique.
 
-👥 Auteurs
+Auteurs
 Mokhtari Hadjia Meriem
